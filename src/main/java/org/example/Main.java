@@ -6,10 +6,10 @@ public class Main {
         mainMethodShowInfo();
     }
     private static void mainMethodShowMessageAble() {
-            System.out.println("hello Viva Omir\n");
+            System.out.println("hello hi Viva Omir\n");
     }
     private static void mainMethodShowInfo() {
-        System.out.println("Lets learn Git");
+        System.out.println("new changes");
     }
 
 }
